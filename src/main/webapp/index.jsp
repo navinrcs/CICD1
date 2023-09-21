@@ -11,6 +11,8 @@
 	<h1>welcome to cicd</h1>
 	<p>this is the home page</p>
 	<a href="about.jsp">go to about page</a>
+	
+	<a href="service.jsp">go to service page</a>
 	<!-- 
 <h1>Welcome</h1>
 
